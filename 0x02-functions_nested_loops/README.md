@@ -1,2 +1,2 @@
-welcome in my C - Functions, nested loops at alx
+ C - Functions, nested loops (GM39)
 

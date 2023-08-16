@@ -1,2 +1,2 @@
-welcome in my C - Debugging at alx
+C - Debugging (GM39)
 

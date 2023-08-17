@@ -1,1 +1,1 @@
-#C - More functions, more nested loops(gm39)
+#C - More functions, more nested loops( gm39 )

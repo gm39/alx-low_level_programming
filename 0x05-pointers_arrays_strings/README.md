@@ -1,2 +1,2 @@
-# welcome in my C - Pointers, arrays and strings at alx , me (cstfre)
+# C - Pointers, arrays and strings (gm39)
 

@@ -1,1 +1,1 @@
-#  C-Even more pointers, arrays and strings (gm39)
+#  C-Even more pointers, arrays and  strings (gm39)
